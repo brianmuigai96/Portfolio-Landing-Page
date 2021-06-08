@@ -1,3 +1,10 @@
 body{
   font-family: sans-serif;
 }
+.rounded{
+  width: 300px;
+  margin: auto;
+}
+.rounded img{
+  border-radius: 50%;
+}
