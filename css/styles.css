@@ -8,3 +8,7 @@ body{
 .rounded img{
   border-radius: 50%;
 }
+.presence h1{
+  text-align: center;
+  color: green;
+}
