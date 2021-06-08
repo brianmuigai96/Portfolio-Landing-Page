@@ -12,3 +12,9 @@ body{
   text-align: center;
   color: green;
 }
+.presence h1 {
+  border: 2px
+  padding: 10px;
+  margin: 2px;
+  background-color: yellow;
+}
