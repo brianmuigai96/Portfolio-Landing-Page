@@ -17,8 +17,8 @@ The website is a display of me and the projects i have done for the past one wee
 ###### Technologies Used
 The project is most uses html to make the static display and CSS for styling the HTML
 
-####### Support and contact details
+## Support and contact details
 If you encounter any problem you can always reach out and will help you accordingly
 
-######## Lincense
+## Lincense
 GPL (c) 2021 **brianmuigai96**
