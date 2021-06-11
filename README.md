@@ -15,7 +15,7 @@ The website is a display of me and the projects i have done for the past one wee
      c).use the git remote function followed by the remote url ie git remote https://https://github.com/brianmuigai96/Portfolio-Landing-Page
 
 ## Technologies Used
-The project is most uses html to make the static display and CSS for styling the HTML
+The project is most uses html to make the static display and CSS for styling the HTML and most of javascript.
 
 ## Support and contact details
 If you encounter any problem you can always reach out and will help you accordingly
