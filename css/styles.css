@@ -1,23 +1,34 @@
 body{
   font-family: sans-serif;
 }
-.rounded{
-  width: 300px;
-  margin: auto;
-}
-.rounded img{
+.presence img{
   border-radius: 50%;
+  float: right;
 }
 .presence h1{
-  text-align: center;
   color: green;
 }
-.presence h1 {
-  border: 2px
-  padding: 10px;
-  margin: 2px;
-  background-color: yellow;
+
+.navbar{
+  background-color: pink;
+  width: auto;
+  color: white;
 }
 .about{
+  color: white;
+  background-color: black;
+}
+.skills h4{
+  text-align: center;
+
+}
+.experience{
+  padding:100px;
+  text-decoration: none;
+
+}
+.education{
   float: left;
+  padding: 100px;
+
 }
