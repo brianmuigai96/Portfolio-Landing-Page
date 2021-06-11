@@ -2,11 +2,11 @@ body{
   font-family: sans-serif;
 }
 .presence img{
-  border-radius: 50%;
-  float: right;
-}
-.presence h1{
-  color: green;
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+   border-radius: 50%
 }
 
 .navbar{
@@ -28,7 +28,36 @@ body{
 
 }
 .education{
-  float: left;
   padding: 100px;
 
+}
+.wrapper h4{
+  color: blue;
+}
+.card h2{
+  color: blue;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+}
+.card p{
+  font-size: 16px;
+  line-height: 24px;
+}
+.container{
+  max-width: 1170px;
+  width: 100%;
+  margin-top: 50px;
+
+  display: flex;
+
+}
+.column{
+  margin: 0 15px 25px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+  background: #fff;
+  border-radius: 10px;
+}
+.card{
+  padding: 15px 25px;
 }
